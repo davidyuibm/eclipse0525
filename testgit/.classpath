@@ -7,5 +7,6 @@
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="lib" path="C:/Users/DAVIDYU/Box Sync/workspace/jt400.jar"/>
+	<classpathentry kind="lib" path="/Users/macfordavid/Box Sync/workspace/jt400.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
